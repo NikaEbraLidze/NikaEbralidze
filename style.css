@@ -1,5 +1,12 @@
-/* font-family: "Nunito", sans-serif; */
-/* font-family: "Poppins", sans-serif; */
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    padding: 100px 0;
+    border-top: 1px solid #ccc;
+}
+
 body{
     background-color: #e1efff;
 }
